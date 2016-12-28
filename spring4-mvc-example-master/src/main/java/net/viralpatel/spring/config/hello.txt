@@ -1,3 +1,7 @@
 hello text file
 hello txt.....
+<<<<<<< HEAD
 hello!!!!!!!!!!!!!!!!!!!!!
+=======
+Hello?????
+>>>>>>> branch 'master' of https://github.com/vsahni/gitrepo.git
